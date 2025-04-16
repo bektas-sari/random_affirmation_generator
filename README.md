@@ -15,12 +15,6 @@ Designed to lift your mood and motivate your day using smooth text animation and
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots here when ready (e.g., `assets/screenshots/home.png`)_
-
----
-
 ## 🛠 Built With
 
 - Flutter  
