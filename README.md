@@ -29,7 +29,7 @@ Designed to lift your mood and motivate your day using smooth text animation and
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/random_affirmation_generator.git
+git clone https://github.com/bektas-sari/random_affirmation_generator.git
 cd random_affirmation_generator
 ```
 
