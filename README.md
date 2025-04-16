@@ -49,7 +49,7 @@ flutter run
 
 ## 📄 License
 
-MIT License © 2024 yourusername
+MIT License © 2025 bektas-sari
 
 ---
 
