@@ -1,6 +1,7 @@
 # 🌟 Random Affirmation Generator
 
-A minimalist Flutter app that displays a new positive affirmation with each tap. Designed to lift your mood and motivate your day using smooth text animation and a simple, elegant interface.
+A minimalist Flutter app that displays a new positive affirmation with each tap. 
+Designed to lift your mood and motivate your day using smooth text animation and a simple, elegant interface.
 
 ---
 
